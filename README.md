@@ -101,10 +101,10 @@ Also, Bella is not Ido's friend. When logged in to Ido's account, you can add he
 ![ourGif](https://user-images.githubusercontent.com/92373590/164725983-68a33597-394a-4502-9c54-5a60acf0fcfe.gif)
 
 ### Developers
-- Coral Kuta 208649186
-- Tal Dabran 316040898
+- Coral Kuta 
+- Tal Dabran 
 
 
 
-- Ido Tavron 316222512
+- Ido Tavron 
 
